@@ -1,5 +1,8 @@
 remote_theme: pages-themes/tactile@v0.2.0
-title: Bogdan docs
 description: Some usefull documentation
 name: true
 title: false
+markdown: GFM
+plugins:
+- jekyll-gfm-admonitions
+- jekyll-optional-front-matter
