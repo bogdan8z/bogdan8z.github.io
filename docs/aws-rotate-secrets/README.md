@@ -17,9 +17,10 @@ Steps to add a rotation for a secret:
 3. In the **Rotation** function: if this is the first rotation we will need to click **Create function** (if we already have a rotation we need just to select the function from the dropdown)
 4. When creating a lambda function we need to select **Author from scratch**, **Function name**=myrotation-t1-test, **Runtime**=python, **Architecture**=x86_64 and click **Create function**
 5. In the function page we need to add our code in the **lambda_function.py** ( I have used a simple hmac encoding):
-   1. 
-    ```python 
-    {
+    1.
+
+    ```python
+
     import json
     import boto3
     import os
@@ -203,8 +204,9 @@ Steps to add a rotation for a secret:
         # Convert the key to a Base64-encoded string
         hmac_key_base64 = base64.b64encode(hmac_key_bytes).decode("utf-8")
         return hmac_key_base64
-    }
+    
     ```
+
 6. Save it and than we can click **Test**. After checking it we need to click **Deploy**
 7. Here, on the lambda page, on **Configuration** tab select **Permissions** and click **Add permissions** button and select **AWS service**, **Secrets Manager**, any **Statement ID**, **Principal**=secretsmanager.amazonaws.com, **Action**=lambda:InvokeFunction and click **Save**
    1. ![alt text](images/lambda-permissions.png)
