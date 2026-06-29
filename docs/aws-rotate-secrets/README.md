@@ -1,4 +1,4 @@
-# AWS - how to rotate secrets using
+# AWS - how to rotate secrets using lamda
 
 ### Description of implementation
 
