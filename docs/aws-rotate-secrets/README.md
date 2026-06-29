@@ -17,7 +17,6 @@ Steps to add a rotation for a secret:
 3. In the **Rotation** function: if this is the first rotation we will need to click **Create function** (if we already have a rotation we need just to select the function from the dropdown)
 4. When creating a lambda function we need to select **Author from scratch**, **Function name**=myrotation-t1-test, **Runtime**=python, **Architecture**=x86_64 and click **Create function**
 5. In the function page we need to add our code in the **lambda_function.py** ( I have used a simple hmac encoding):
-    1.
 
     ```python
 
