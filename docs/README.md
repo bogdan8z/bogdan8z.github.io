@@ -6,6 +6,7 @@
 - [AWS - how to rotate secrets](aws-rotate-secrets/README.md)
 - [Generate Local SSL Certificates](ssl-local/README.md)
 - [setup dynamodb locally - docker](docker-dynamodb-local/README.md)
+- [Docker image - .net core 2](docker-dotnet22-inside-docker/README.md)
 
 
 
