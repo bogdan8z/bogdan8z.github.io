@@ -110,8 +110,8 @@ Steps to add a rotation for a secret:
             client.get_secret_value(SecretId=arn, VersionId=token, VersionStage="AWSPENDING")
         except client.exceptions.ResourceNotFoundException:
             secretId = metadata['Name']
-            passwd = generateSecret()
-            secretString = f'{{"{secretId}":"{passwd}"}}'
+            passwd = generateSecret()            
+            secretString = json.dumps({secretId: passwd}
             
             # Put the secret
             client.put_secret_value(SecretId=arn, ClientRequestToken=token, SecretString=secretString, VersionStages=['AWSPENDING'])
