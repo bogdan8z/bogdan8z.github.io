@@ -1,4 +1,3 @@
-# My Stuff
 ## Some of my repos
 - [TaskManager - .NET with React](https://github.com/bogdan8z/TaskManager)
 - [PWA simple project using React](https://github.com/bogdan8z/SimplePwa)
