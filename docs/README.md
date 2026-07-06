@@ -1,6 +1,7 @@
 ## Some of my repos
 - [Enterprise Task Management System](https://github.com/bogdan8z/TaskManagement)
 - [Serverless REST API on AWS](https://github.com/bogdan8z/AWSServerlessNETCore)
+- [Deploying ASP.NET Core APIs to AWS Lambda](https://github.com/bogdan8z/NETApiToLambda)
 - [Real-Time Notifications with SignalR](https://github.com/bogdan8z/SignalRWeb)
 - [Background Processing Service for ASP.NET Core](https://github.com/bogdan8z/BackgroundServiceWeb)
 - [Secure Secret Management using AWS Cognito](https://github.com/bogdan8z/ReadAwsSecretsUsingCognito)
@@ -8,7 +9,6 @@
 - [Howto deploy a .NET library to the Gitlab Package Registry](https://github.com/bogdan8z/gitlab-nuget-sample)
 - [PWA simple project using React](https://github.com/bogdan8z/SimplePwa)
 - [Use multiple project targets in .NET](https://github.com/bogdan8z/MultiTargetExample)
-- [Deploy .NET API endpoint into AWS Lambda](https://github.com/bogdan8z/NETApiToLambda)
 - [Service pattern in .NET](https://github.com/bogdan8z/ServicePattern1)
 - [Learn useState in React](https://github.com/bogdan8z/react-usestate-ex1)
 - [Howto replace a switch using Strategy Pattern](https://github.com/bogdan8z/replaceIfSwitch)
