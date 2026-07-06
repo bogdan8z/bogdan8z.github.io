@@ -1,6 +1,7 @@
 ## Some of my repos
 - [TaskManagement - .NET with React](https://github.com/bogdan8z/TaskManagement)
 - [Serverless REST API on AWS](https://github.com/bogdan8z/AWSServerlessNETCore)
+- [Use SignalR in .NET core](https://github.com/bogdan8z/SignalRWeb)
 - [PWA simple project using React](https://github.com/bogdan8z/SimplePwa)
 - [Use multiple project targets in .NET](https://github.com/bogdan8z/MultiTargetExample)
 - [Pong Game - generated with AI](https://github.com/bogdan8z/pong-react-ai)
@@ -11,7 +12,6 @@
 - [Generate UnitTests with ChatGpt using RapidAPI](https://github.com/bogdan8z/GenerateUnitTestsWithAi.API)
 - [.NET - Read from Aws Secrets using Cognito user](https://github.com/bogdan8z/ReadAwsSecretsUsingCognito)
 - [Howto deploy a .NET library to the Gitlab Package Registry](https://github.com/bogdan8z/gitlab-nuget-sample)
-- [Use SignalR in .NET core](https://github.com/bogdan8z/SignalRWeb)
 - [Background Task using ASP.NET Core Web API](https://github.com/bogdan8z/BackgroundServiceWeb)
 - [Learn useState in React](https://github.com/bogdan8z/react-usestate-ex1)
 - [Howto replace a switch using Strategy Pattern](https://github.com/bogdan8z/replaceIfSwitch)
