@@ -1,12 +1,12 @@
 ## Some of my repos
 - [TaskManagement - .NET with React](https://github.com/bogdan8z/TaskManagement)
+- [Serverless REST API on AWS](https://github.com/bogdan8z/AWSServerlessNETCore)
 - [PWA simple project using React](https://github.com/bogdan8z/SimplePwa)
 - [Use multiple project targets in .NET](https://github.com/bogdan8z/MultiTargetExample)
 - [Pong Game - generated with AI](https://github.com/bogdan8z/pong-react-ai)
 - [Holidy image generator - vibe coding](https://github.com/bogdan8z/vibe-1)
 - [Bricks Breaker Game](https://github.com/bogdan8z/BreakGmSample)
 - [Deploy .NET API endpoint into AWS Lambda](https://github.com/bogdan8z/NETApiToLambda)
-- [Deploy an AWS Lambda using Visual Studio](https://github.com/bogdan8z/AWSServerlessNETCore)
 - [Service pattern in .NET](https://github.com/bogdan8z/ServicePattern1)
 - [Generate UnitTests with ChatGpt using RapidAPI](https://github.com/bogdan8z/GenerateUnitTestsWithAi.API)
 - [.NET - Read from Aws Secrets using Cognito user](https://github.com/bogdan8z/ReadAwsSecretsUsingCognito)
