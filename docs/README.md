@@ -1,5 +1,5 @@
 ## Some of my repos
-- [TaskManagement - .NET with React](https://github.com/bogdan8z/TaskManagement)
+- [Enterprise Task Management System](https://github.com/bogdan8z/TaskManagement)
 - [Serverless REST API on AWS](https://github.com/bogdan8z/AWSServerlessNETCore)
 - [Real-Time Notifications with SignalR](https://github.com/bogdan8z/SignalRWeb)
 - [Background Processing Service for ASP.NET Core](https://github.com/bogdan8z/BackgroundServiceWeb)
