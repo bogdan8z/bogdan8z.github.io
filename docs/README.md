@@ -11,7 +11,7 @@
 - [Deploy .NET API endpoint into AWS Lambda](https://github.com/bogdan8z/NETApiToLambda)
 - [Service pattern in .NET](https://github.com/bogdan8z/ServicePattern1)
 - [Generate UnitTests with ChatGpt using RapidAPI](https://github.com/bogdan8z/GenerateUnitTestsWithAi.API)
-- [.NET - Read from Aws Secrets using Cognito user](https://github.com/bogdan8z/ReadAwsSecretsUsingCognito)
+- [Secure Secret Management using AWS Cognito](https://github.com/bogdan8z/ReadAwsSecretsUsingCognito)
 - [Howto deploy a .NET library to the Gitlab Package Registry](https://github.com/bogdan8z/gitlab-nuget-sample)
 - [Learn useState in React](https://github.com/bogdan8z/react-usestate-ex1)
 - [Howto replace a switch using Strategy Pattern](https://github.com/bogdan8z/replaceIfSwitch)
