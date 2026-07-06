@@ -1,5 +1,5 @@
 ## Some of my repos
-- [TaskManager - .NET with React](https://github.com/bogdan8z/TaskManager)
+- [TaskManagement - .NET with React](https://github.com/bogdan8z/TaskManagement)
 - [PWA simple project using React](https://github.com/bogdan8z/SimplePwa)
 - [Use multiple project targets in .NET](https://github.com/bogdan8z/MultiTargetExample)
 - [Pong Game - generated with AI](https://github.com/bogdan8z/pong-react-ai)
