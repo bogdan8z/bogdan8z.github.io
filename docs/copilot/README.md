@@ -11,6 +11,10 @@ This project contains a collection of reusable Copilot agents and instructions d
   - [security-specialist.agent.md](agents/security-specialist.agent.md) — Agent for security vulnerability detection
 - `instructions/`
   - [create-instructions.md](instructions/create-instructions.md) — Copilot configuration and usage guidelines
+- `skills/`
+  - `caveman/`
+    - [SKILL.md](skills/caveman/SKILL.md) — Skill to cut tokens cost
+    - [README.md](skills/caveman/README.md) — Copilot usage guidelines
 - `README.md` — Project overview and documentation (this file)
 ---
 
