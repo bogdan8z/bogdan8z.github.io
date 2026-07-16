@@ -13,8 +13,8 @@ This project contains a collection of reusable Copilot agents and instructions d
   - [create-instructions.md](instructions/create-instructions.md) — Copilot configuration and usage guidelines
 - `skills/`
   - `caveman/`
-    - [SKILL.md](skills/caveman/SKILL.md) — Skill to cut tokens cost
-    - [README.md](skills/caveman/README.md) — Copilot usage guidelines
+    - [SKILL.md](skills/caveman/SKILL.md) — Caveman skill to reduce tokens cost
+    - [README.md](skills/caveman/README.md) — Skill usage guidelines
 - `README.md` — Project overview and documentation (this file)
 ---
 
