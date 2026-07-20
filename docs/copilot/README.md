@@ -27,3 +27,4 @@ This project contains a collection of reusable Copilot agents and instructions d
 - [Agent Skills](https://agentskills.io)
 - [Awesome Copilot Skills](https://awesome-copilot.github.com/skills/)
 - [Anthropic Skills](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
+- [Agentic Skills](https://agenticskills.io/)
