@@ -2,7 +2,7 @@
 
 ## Description
 
-This project contains a collection of reusable Copilot agents and instructions designed to enhance productivity and code quality. It includes specialized agents for code review, performance analysis, and security assessment, along with comprehensive Copilot configuration guidelines. All the agents files you need to copy to your project in .github/agents folder. All the instruction files you need to copy in **.github** folder of your project.
+This project contains a collection of reusable Copilot agents and instructions designed to enhance productivity and code quality. It includes specialized agents for code review, performance analysis, and security assessment, along with comprehensive Copilot configuration guidelines. All the agents files you need to copy to your project in **.github/agents** folder. All the instruction files you need to copy in **.github** folder of your project. All the skills file you need to copy to **.github/skills** folder.
 
 ##### This page structure
 - `agents/`
