@@ -7,8 +7,9 @@
 - [Serverless REST API on AWS](https://github.com/bogdan8z/AWSServerlessNETCore)
 - [Background Processing Service for ASP.NET Core](https://github.com/bogdan8z/BackgroundServiceWeb)
 - [Howto deploy a .NET library to the Gitlab Package Registry](https://github.com/bogdan8z/gitlab-nuget-sample)
-- [PWA simple project using React](https://github.com/bogdan8z/SimplePwa)
 - [Use multiple project targets in .NET](https://github.com/bogdan8z/MultiTargetExample)
+- [SQL Server Table Rename and DACPAC Test Demo](https://github.com/bogdan8z/sqlserver-renametab)
+- [PWA simple project using React](https://github.com/bogdan8z/SimplePwa)
 - [Service pattern in .NET](https://github.com/bogdan8z/ServicePattern1)
 - [Learn useState in React](https://github.com/bogdan8z/react-usestate-ex1)
 - [Howto replace a switch using Strategy Pattern](https://github.com/bogdan8z/replaceIfSwitch)
@@ -33,7 +34,6 @@
 - [Generate Local SSL Certificates](ssl-local/README.md)
 - [Setup dynamodb locally - docker](docker-dynamodb-local/README.md)
 - [Docker image - .net core 2](docker-dotnet22-inside-docker/README.md)
-- [SQL Server Table Rename and DACPAC Test Demo](https://github.com/bogdan8z/sqlserver-renametab)
 - [Generate Coverlet report - .net project](coverlet-report/README.md)
 
 
