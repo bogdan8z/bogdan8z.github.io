@@ -34,6 +34,7 @@
 - [Setup dynamodb locally - docker](docker-dynamodb-local/README.md)
 - [Docker image - .net core 2](docker-dotnet22-inside-docker/README.md)
 - [SQL Server Table Rename and DACPAC Test Demo](https://github.com/bogdan8z/sqlserver-renametab/README.md)
+- [Generate Coverlet report - .net project](coverlet-report/README.md)
 
 
 
