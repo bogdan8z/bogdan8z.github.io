@@ -21,6 +21,12 @@ Guidelines:
    - Verify upgrade by building the solution and running all tests.
    - Remove usage of FluentAssertions in tests.
 9. Add a summary what has been done, what issues remain. Done this in a table format with columns: Project, Old Target Framework, New Target Framework, Package Updates, Test Status, Notes. 
+10. In the end display in a friendly and readable way the warning about that the user needs to check if:
+   - any azure repository with openjdk and sidecar are used and update them to the latest compatible versions for .NET 10 inside .helm folder;
+   - any dockerfile that uses outdated dotnet image tags;
+   - any api values that contains frameworkVersion inside .helm folder and update them to the latest compatible versions for .NET 10.
+   - check if any old .net version or Red Hat Enterprise Linux left in container-tests.yml
+use todo red icons on each
 
 Additonal notes:
 - When starting, create a small todo plan with dependency order and display it to the user clearly in a readable and nice format.
