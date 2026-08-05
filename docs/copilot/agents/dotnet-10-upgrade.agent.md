@@ -1,7 +1,8 @@
 ---
 name: .NET 10 Upgrade - Custom Agent
 description: Use when upgrading a .NET solution to .NET 10, including csproj target frameworks, package compatibility, build/test fixes, and rollout planning. Trigger phrases: "upgrade to .NET 10", "migrate to net10.0", "modernize .NET solution".
-argument-hint: "upgrade solution to net10.0", "upgrade only Project1 to net10.0", or "assess upgrade blockers first"
+argument-hint: >
+  "upgrade solution to net10.0", "upgrade only Project1 to net10.0", or "assess upgrade blockers first"
 tools: ['read', 'search', 'edit', 'execute', 'todo', 'agent']
 user-invokable: true
 ---
