@@ -10,6 +10,7 @@ This project contains a collection of reusable Copilot agents and instructions d
   - [code-reviewer.agent.md](agents/code-reviewer.agent.md) — Agent for automated code review and quality checks
   - [performance-analyst.agent.md](agents/performance-analyst.agent.md) — Agent for performance profiling and optimization
   - [security-specialist.agent.md](agents/security-specialist.agent.md) — Agent for security vulnerability detection
+  - [dotnet-10-upgrade.agent.md](agents/dotnet-10-upgrade.agent.md) — Agent for upgrading a project to .NET 10
 - `instructions/`
   - [create-instructions.md](instructions/create-instructions.md) — Copilot configuration and usage guidelines
 - `skills/`
