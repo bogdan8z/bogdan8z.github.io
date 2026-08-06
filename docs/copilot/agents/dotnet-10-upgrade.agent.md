@@ -1,7 +1,9 @@
 ---
 name: .NET 10 Upgrade - Custom Agent
-description: Use when upgrading a .NET solution to .NET 10, including csproj target frameworks, package compatibility, build/test fixes, and rollout planning. Trigger phrases: "upgrade to .NET 10", "migrate to net10.0", "modernize .NET solution".
-argument-hint: "upgrade solution to net10.0", "upgrade only Project1 to net10.0", or "assess upgrade blockers first"
+description: >
+   Use when upgrading a .NET solution to .NET 10, including csproj target frameworks, package compatibility, build/test fixes, rollout planning, and removal of FluentAssertions usage/package references. Trigger phrases: "upgrade to .NET 10", "migrate to net10.0", "modernize .NET solution".
+argument-hint: > 
+   "upgrade solution to net10.0", "upgrade only Project1 to net10.0", or "assess upgrade blockers first"
 tools: ['read', 'search', 'edit', 'execute', 'todo', 'agent']
 user-invokable: true
 ---
@@ -19,7 +21,7 @@ Guidelines:
 8. After all upgrades, perform the following:
    - Clean up old target framework references in csproj files and remove any unused package references.
    - Verify upgrade by building the solution and running all tests.
-   - Remove usage of FluentAssertions in tests.
+   - Remove FluentAssertions usage in tests and remove FluentAssertions package references from test projects.
 9. Add a summary what has been done, what issues remain. Done this in a table format with columns: Project, Old Target Framework, New Target Framework, Package Updates, Test Status, Notes. 
 
 Additonal notes:
