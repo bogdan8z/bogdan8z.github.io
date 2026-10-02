@@ -23,6 +23,7 @@
 - [X-0 game - React](https://github.com/bogdan8z/react-x-o)
 - [Holiday image generator - vibe coding](https://github.com/bogdan8z/vibe-1)
 - [Bricks Breaker Game](https://github.com/bogdan8z/BreakGmSample)
+- [AI - Workflow for a .NET project](https://github.com/bogdan8z/net-flow)
 
 ## Documentation
 - [GitHub pages setup](github-setup/README.md)
